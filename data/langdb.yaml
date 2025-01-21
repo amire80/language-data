@@ -262,7 +262,7 @@ languages:
   fkv: [Latn, [EU], kvääni]
   fo: [Latn, [EU], føroyskt]
   fon: [Latn, [AF], fɔ̀ngbè]
-  fr: [Latn, [EU, AM, WW], français]
+  fr: [Latn, [EU, AM, AF, PA, AS, ME, WW], français]
   frc: [Latn, [AM], français cadien]
   frp: [Latn, [EU], arpetan]
   frr: [Latn, [EU], Nordfriisk]
